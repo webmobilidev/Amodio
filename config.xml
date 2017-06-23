@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
+<widget id="com.designbest.amodio" version="6.0.143" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Amodio</name>
     <description>
+Questa applicazione ti permette di portare sempre con te, sul tuo Smartphone o Tablet, il catalogo d'arredamento di Amodio, il tuo negozio di fiducia di design a Napoli (NA).
+Ricerca le finiture per la tua casa attraverso le categorie di prodotto (arredo bagno, piastrelle, cucine, etc.) o con la ricerca testuale libera. Sfoglia le migliori marche proposte da Amodio. 
 Tieniti aggiornato con tutte le novità presentate alle fiere di settore nell'apposita sezione Novità.
 All'interno delle schede prodotto trova tutti i dettagli utili per orientarti nella tua scelta: nome e descrizione del prodotto, misure, materiali e caratteristiche. 
+Con la gallery guarda il prodotto da te selezionato nei minimi dettagli.
 </description>
+    <author email="info@amodioceramiche.com" href="http://www.amodioceramiche.com">
+     Amodio
     </author>
     <access launch-external="yes" origin="maps:*" />
     <access launch-external="yes" origin="geo:*" />
