@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.designbest.amodio;
+package com.amodio.amodio;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
